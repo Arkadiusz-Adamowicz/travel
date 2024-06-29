@@ -4,3 +4,9 @@ export type ButtonProps = {
   title: string;
   variant: string;
 };
+
+export type FeatureItemProps = {
+  title: string;
+  icon: string;
+  description: string;
+};
