@@ -40,7 +40,7 @@ const Guide = () => {
             height={158}
             className="h-full w-auto"
           />
-          <div className="flexBetween flex-col">
+          <div className="fleetween flex-col">
             <div className="flex w-full flex-col">
               <div className="flexBetween w-full">
                 <p className="regular-16 text-gray-20">Destination</p>
